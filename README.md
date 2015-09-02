@@ -5,6 +5,8 @@ This dataset collection was inspired by [an article on the new "share economy" c
 
 Datasets are predominantly geojson, organized into directories by company or theme. Feel free to download and build maps with these data; source information linked below.
 
+![uber pickups](http://imgur.com/A7UY4zt)
+
 
 ###UBER
 
